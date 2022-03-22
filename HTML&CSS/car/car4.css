@@ -82,7 +82,7 @@ h4 {
 h4::after {
   /* height: 2px; */
   margin-bottom: 5px;
-  width: 580px;
+  width: 440px;
   content: "";
   display: inline-block;
   border-bottom: crimson 2px solid; /* position: absolute; */
