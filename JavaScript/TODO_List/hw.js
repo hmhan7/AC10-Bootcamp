@@ -23,7 +23,7 @@ taskInput.addEventListener("keydown", function (e) {
 //新增任務function
 function addNewTask() {
   if (taskInput.value.trim() === "") {
-    window.alert("請輸入內容！！！");
+    window.alert("請輸入內容!!!");
   } else {
     const inputText = `<li class="todo-item">
       <span class="item">${taskInput.value}</span>
